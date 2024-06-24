@@ -1,6 +1,6 @@
 # DIGITAL WALLET 🚀
 
-![Digital Wallet](https://media.giphy.com/media/3og0IPMeDpKQuy7U5u/giphy.gif)
+![image](https://github.com/JordyDanielCh/Wallet/assets/170487972/2c991370-6089-472e-9f48-dd5365290286)
 
 ## TEAM WORK 🤝
 
