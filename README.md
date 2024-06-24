@@ -1,5 +1,5 @@
 # DIGITAL WALLET 🚀
-[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.icegif.com%2Fwelcome-53%2F&psig=AOvVaw0-5uT_7iSPbdd0qjTA33c9&ust=1719292772513000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjZ7-i-84YDFQAAAAAdAAAAABAo](https://www.icegif.com/wp-content/uploads/2023/07/icegif-499.gif)
+![image](https://github.com/JordyDanielCh/Wallet/assets/170487972/ad322c42-00c2-4bf9-bfc0-bf31d84ca841)
 
 ## TEAM WORK 🤝
 
