@@ -74,5 +74,5 @@ Description of Use of the Digital Wallet System
 
 ### THANKS FOR WATCHING! 🙌
 
-![Thanks](https://media.giphy.com/media/3o7abpbP92M3dFFmqk/giphy.gif)
+![Thanks for Watching](https://media.giphy.com/media/3o7abpbP92M3dFFmqk/giphy.gif)
 
