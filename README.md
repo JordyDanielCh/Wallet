@@ -1,7 +1,5 @@
 # DIGITAL WALLET 🚀
-
-![image](https://github.com/JordyDanielCh/Wallet/assets/170487972/2c991370-6089-472e-9f48-dd5365290286)
-
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.icegif.com%2Fwelcome-53%2F&psig=AOvVaw0-5uT_7iSPbdd0qjTA33c9&ust=1719292772513000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjZ7-i-84YDFQAAAAAdAAAAABAo
 ## TEAM WORK 🤝
 
 ### SIGNATURE: PROGRAMACIÓN 1
