@@ -28,13 +28,13 @@ The main interface will be presented with fields to enter amounts, buttons to re
 
 - ### Step 2: Registration of a Transaction
 Income Amount:
--In the "Amount" field, enter the transaction amount of money.
--Select Transaction Type:
--To register a purchase, click the "Purchase" button.
--To record a sale, click the "Sale" button.
+In the "Amount" field, enter the transaction amount of money.
+Select Transaction Type:
+To register a purchase, click the "Purchase" button.
+To record a sale, click the "Sale" button.
 Automatic Registration of Details:
--The system will automatically generate a unique ID for the transaction.
--The current date and time will be automatically recorded in the format YYYY-MM-DD_HH
+The system will automatically generate a unique ID for the transaction.
+The current date and time will be automatically recorded in the format YYYY-MM-DD_HH
 
 - ### Step 3: Viewing Transactions
 View Transactions:
