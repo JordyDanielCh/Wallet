@@ -40,7 +40,7 @@ Description of Use of the Digital Wallet System
 - Open the digital wallet system on your device.
 - The main interface will be presented with fields to enter amounts, buttons to record transactions, and a table to view the recorded transactions.
 
-![System Boot](https://media.giphy.com/media/26Ff7a4seF2DoMC4w/giphy.gif)
+![Imagen de WhatsApp 2024-06-23 a las 23 47 18_7cc41010](https://github.com/JordyDanielCh/Wallet/assets/170487972/e414d704-f05e-4877-a037-a7a5203fd908)
 
 ### 📝 STEP 2: REGISTRATION OF A TRANSACTION
 - **Income Amount**:
